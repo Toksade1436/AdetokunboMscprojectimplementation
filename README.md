@@ -13,6 +13,10 @@
 ### counting number of shifts
 ![image](https://github.com/Toksade1436/AdetokunboMscprojectimplementation/assets/166098065/3b5628ad-40d2-4ffc-a244-df08be275c17)
 ![image](https://github.com/Toksade1436/AdetokunboMscprojectimplementation/assets/166098065/848c17c0-ed69-4fc7-9f16-7aaea2af25ff)
+### optimizing the hard constrains with our soft constraint
+![image](https://github.com/Toksade1436/AdetokunboMscprojectimplementation/assets/166098065/e0302dd5-1d66-47e1-a882-90689a973230)
+![image](https://github.com/Toksade1436/AdetokunboMscprojectimplementation/assets/166098065/dad9f392-bfe0-480c-9eee-818b78afaf6f)
+
 
 
 
