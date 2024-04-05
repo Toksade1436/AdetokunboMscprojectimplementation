@@ -9,4 +9,10 @@
 ### adding constraint 2
 ![image](https://github.com/Toksade1436/AdetokunboMscprojectimplementation/assets/166098065/279dd357-6d72-4e8d-9d4b-87735ddb0a5a)
 ![image](https://github.com/Toksade1436/AdetokunboMscprojectimplementation/assets/166098065/7ef1ecd7-22ec-4836-ae3c-fddef8c4c58e)
+## ...
+### counting number of shifts
+![image](https://github.com/Toksade1436/AdetokunboMscprojectimplementation/assets/166098065/3b5628ad-40d2-4ffc-a244-df08be275c17)
+![image](https://github.com/Toksade1436/AdetokunboMscprojectimplementation/assets/166098065/848c17c0-ed69-4fc7-9f16-7aaea2af25ff)
+
+
 
