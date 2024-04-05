@@ -6,3 +6,7 @@
 ### adding constraint 1
 ![image](https://github.com/Toksade1436/AdetokunboMscprojectimplementation/assets/166098065/d6430342-71b0-494f-991c-6824ac0c5ff9)
 ![image](https://github.com/Toksade1436/AdetokunboMscprojectimplementation/assets/166098065/98dc4276-5569-4ff5-930d-4e40f1c94c78)
+### adding constraint 2
+![image](https://github.com/Toksade1436/AdetokunboMscprojectimplementation/assets/166098065/279dd357-6d72-4e8d-9d4b-87735ddb0a5a)
+![image](https://github.com/Toksade1436/AdetokunboMscprojectimplementation/assets/166098065/7ef1ecd7-22ec-4836-ae3c-fddef8c4c58e)
+
